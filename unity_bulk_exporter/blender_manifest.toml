@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "unity_bulk_exporter"
+version = "1.0.0"
+name = "Unity Bulk Asset Exporter"
+tagline = "Bulk export for Unity: Meshes, Textures (BC/N), Materials and Prefabs"
+maintainer = "Antigravity"
+type = "add-on"
+
+tags = ["Import-Export", "Unity"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
